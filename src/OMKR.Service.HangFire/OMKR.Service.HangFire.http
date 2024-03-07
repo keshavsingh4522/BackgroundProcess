@@ -1,0 +1,6 @@
+@OMKR.Service.HangFire_HostAddress = http://localhost:5102
+
+GET {{OMKR.Service.HangFire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
